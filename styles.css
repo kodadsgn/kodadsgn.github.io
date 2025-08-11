@@ -32,7 +32,8 @@ button{
 }
 p{
   text-align: center; /* aligns text */
-  padding: 60px;
+  padding-left: 32px;
+  padding-right: 32px;
 }
 a {
   text-decoration: none; /* Removes underline from link */
@@ -45,3 +46,4 @@ button:hover {
   background-color: #cc2c2f; /* Lighter shade on hover */
 
 }
+
